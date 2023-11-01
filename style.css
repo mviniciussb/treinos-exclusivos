@@ -33,14 +33,17 @@ ul{
     gap: 48px;
 }
 
-ul li:hover{
+ul a:hover{
     font-weight: bold;
+    color: #1f1534;
+    opacity: 1;
 }
 
-a{
+nav a{
     color: #1f1534;
     text-decoration: none;
-    font-family: 'Mulish', sans-serif
+    font-family: 'Mulish', sans-serif;
+    opacity: 0.5;
 }
 
 /* *********LADO ESQUERDO DA TELA******** */
