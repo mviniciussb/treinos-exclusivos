@@ -18,6 +18,7 @@ body{
     margin: 65px auto 0;
     color: #7D7987;
     background: linear-gradient(180deg, rgba(227, 255, 248, 0.00) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+    min-height: 90vh;
 }
 
 nav{
