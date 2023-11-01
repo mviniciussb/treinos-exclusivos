@@ -114,6 +114,11 @@ footer{
     text-align: center;
 }
 
+footer a{
+    color: #1f1534;
+    text-decoration: none;
+}
+
 footer span{
     color: #1f1534;
     font-weight: bold;
